@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+# www/dist/build.js
+# www/dist/build.css
+yarn-error.log
+npm-debug.log
+eslintrc-original
+
+# Editor directories and files
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

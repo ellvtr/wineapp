@@ -1,6 +1,7 @@
 # Wine List
 
 ## Quick start
+Requires [NodeJs](https://nodejs.org/), install if you don't have it. 
 The build files are included in `./www/dist/` so you can start 
 the solution quickly like this with minimum dependencies:
 ```bash

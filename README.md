@@ -1,5 +1,10 @@
 # Wine List
 
+This application is the result of  a code test for a job 
+application as fronted developer. 
+* Video about it: https://youtu.be/wlhlANpXfdU
+* Blog post about it: http://blog.awesomemap.tools/wine-app/
+
 ## Quick start
 Requires [NodeJs](https://nodejs.org/), install if you don't have it. 
 The build files are included in `./www/dist/` so you can start 

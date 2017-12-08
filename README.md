@@ -2,6 +2,7 @@
 
 This application is the result of  a code test for a job 
 application as fronted developer. 
+* Live demo: https://ellvtr.github.io/wineapp/
 * Video about it: https://youtu.be/wlhlANpXfdU
 * Blog post about it: http://blog.awesomemap.tools/wine-app/
 

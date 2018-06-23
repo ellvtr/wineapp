@@ -16,15 +16,21 @@ npm run serve
 ```
 That will serve the solution at http://localhost:8080
 
+
 ## Build Setup
+
+### NB: Fix before build
+The module 'sort-array' fails in the build. To fix it, 
+replace `let` with `var` in 
+`node_modules/sort-array/lib/sort-array.js`.
 
 ``` bash
 # install all dependencies
 npm install
 
-# serve with hot reload at localhost:8080 
-# (run build very first time after installation)
+# run build the very first time after installation
 npm run build
+# serve with hot reload at localhost:8080 
 npm run dev
 
 # build for production with minification
@@ -33,12 +39,6 @@ npm run build
 # lint all *.js and *.vue files
 npm run lint
 ```
-
-## Known issues
-
-The module 'sort-array' fails in the build. To fix it, 
-replace `let` with `var` in 
-`node_modules/sort-array/lib/sort-array.js`.
 
 ## About
 This small app was a code test for a job as frontend developer. 
